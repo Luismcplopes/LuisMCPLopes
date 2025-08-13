@@ -16,7 +16,7 @@ I’m currently working on ...
 - ⚡ Fun fact: ...
 - 📍
 - 💼
-- ⏳
+- ⏳https://about.me/lopes
 -->
 <h1 align="center">
 	Olá! Bem-vindo!🚀
@@ -28,6 +28,7 @@ I’m currently working on ...
 ### Sobre mim
 - 👋 Meu nome é Luis Lopes, tenho 51 anos.
 - 🔭 Trabalho com TI desde 1998.
+- 📍Técnico de Sistemas e Tecnologias de Informação no Municipio de Coimbra
 
 <hr>
 
