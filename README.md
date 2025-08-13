@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 </h4>
 
 ### Sobre mim
-- 👋 Meu nome é Luis Lopes, tenho 29 anos e trabalho com TI desde 1998.
- Faço alguns freelas quando sobra tempo
+- 👋 Meu nome é Luis Lopes, tenho 51 anos.
+- 🔭 Trabalho com TI desde 1998.
 
 <hr>
 
